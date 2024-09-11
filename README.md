@@ -14,8 +14,8 @@ Essa aplicação é bem tranquilinha e usa as seguintes tecnologias:
 
 - **HTML**: Para estruturar a página e deixar tudo bonitinho.
 - **CSS**: Para dar aquele visual macabro, digo, agradável aos olhos.
-- **JavaScript**: O motor por trás das buscas, que vasculha os dados e te mostra os filmes mais arrepiantes.
-- **JSON**: Nosso banco de dados dos filmes de terror. 👀
+- **JavaScript**: O motor por trás das buscas, que vasculha os dados e te mostra os filmes mais arrepiantes.👀
+
 
 ## 📝 Como rodar a aplicação?
 
