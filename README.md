@@ -2,11 +2,11 @@
 
 Bem-vindo ao universo de terror! 👻 Aqui você pode mergulhar no mundo assustador de Invocação do Mal e descobrir informações sobre os filmes dessa franquia que arrepiam até os mais corajosos. 😱
 
-Esta é uma aplicação simples, onde você pode **pesquisar filmes** do universo de terror e obter detalhes como data de lançamento, diretor, bilheteria e, claro, onde assistir (caso você queira passar umas noites sem dormir). 😈
+Este é uma site simples, onde você pode **pesquisar filmes** do universo de terror e obter detalhes como data de lançamento, diretor, bilheteria e, claro, onde assistir (caso você queira passar umas noites sem dormir). 😈
 
 ## 📋 Como funciona?
 
-Você digita algo relacionado a filmes do **universo Invocação do Mal** no campo de pesquisa e, com um clique no botão "Pesquisar", **voilà!** Aparecem os resultados, com todos os detalhes que você precisa para sua próxima maratona de filmes assustadores. Se não encontrar nada, não se preocupe! O aplicativo vai te avisar (com carinho, claro!) que não achou o que você procurava.
+Você digita algo relacionado a filmes do **universo Invocação do Mal** no campo de pesquisa e, com um clique no botão "Pesquisar", **voilà!** Aparecem os resultados, com todos os detalhes que você precisa para sua próxima maratona de filmes assustadores. Se não encontrar nada, não se preocupe! O site vai te avisar (com carinho, claro!) que não achou o que você procurava.
 
 ## 🛠️ Tecnologias
 
